@@ -12,7 +12,7 @@ Here i have two projects
 
   I compare less amount of models but with all of them do params tuning with RandomizedSearchCV in loop.
   
-  Make several pretty visualization graphs(All images with annotations!):
+  Make several pretty visualization graphs(All images with annotations! While hovering, appears description):
   
       -Compare perfomance of each model and their scores(f1-score, AUC, Precision, Recall)
 ![newplot (1)](https://user-images.githubusercontent.com/78692457/220389858-bea7eaab-c44e-4be4-977d-d65467a8973e.png)
